@@ -1,0 +1,23 @@
+[07:57:23] [User Authenticator #3/INFO]: UUID of player Ixilas is 19efd566-9d12-46d8-beb2-40e5fec899a5
+[07:57:23] [Server thread/INFO]: Ixilas[/176.133.149.175:52096] logged in with entity id 49425 at (-374.5234042592666, 67.0, -335.56505428705367)
+[07:57:23] [Server thread/INFO]: Ixilas joined the game
+[10:01:45] [Server thread/INFO]: Ixilas has made the advancement [Getting an Upgrade]
+[10:41:07] [Server thread/INFO]: Ixilas lost connection: Disconnected
+[10:41:07] [Server thread/INFO]: Ixilas left the game
+[11:49:05] [User Authenticator #4/INFO]: UUID of player Ixilas is 19efd566-9d12-46d8-beb2-40e5fec899a5
+[11:49:06] [Server thread/INFO]: Ixilas[/176.133.149.175:53221] logged in with entity id 81802 at (-466.255825056301, 117.0, -334.6827155943819)
+[11:49:06] [Server thread/INFO]: Ixilas joined the game
+[13:45:35] [Server thread/INFO]: Ixilas has made the advancement [Not Today, Thank You]
+[14:13:03] [Server thread/INFO]: Ixilas lost connection: Disconnected
+[14:13:03] [Server thread/INFO]: Ixilas left the game
+[16:23:23] [Server thread/INFO]: Stopping the server
+[16:23:23] [Server thread/INFO]: Stopping server
+[16:23:23] [Server thread/INFO]: Saving players
+[16:23:23] [Server thread/INFO]: Saving worlds
+[16:23:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:23:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:23:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:23:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
