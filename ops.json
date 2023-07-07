@@ -10,5 +10,11 @@
     "name": "Ayunaki",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a24b35c9-f100-4295-818a-ce01025844b0",
+    "name": "Timtitan",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
